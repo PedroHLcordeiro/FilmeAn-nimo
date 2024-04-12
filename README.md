@@ -46,3 +46,8 @@ public class musica {
         System.out.println("Média de avaliações do filme: " + pessoal.pegaMedia());
     }
 }
+// saida Nome do filme: Anônimo
+// Ano de lançamento: Bob Odenkirk
+// Duração em minutos: 2021
+// Média de avaliações do filme: 9.75
+ 
