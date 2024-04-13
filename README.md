@@ -8,8 +8,8 @@ public class Ficha {
 
     void exibeFichaTecnica() {
         System.out.println("Nome do filme: " + Titulo);
-        System.out.println("Ano de lançamento: " + Artista);
-        System.out.println("Duração em minutos: " + AnoDeLnaçamento);
+        System.out.println("Nome Do Artista: " + Artista);
+        System.out.println("Ano de lançamento: " + AnoDeLnaçamento);
     }
 
     void avalia(double nota) {
@@ -47,7 +47,7 @@ public class musica {
     }
 }
 // saida Nome do filme: Anônimo
-// Ano de lançamento: Bob Odenkirk
-// Duração em minutos: 2021
+// Nome do Artista: Bob Odenkirk
+// Ano de lançamento: 2021
 // Média de avaliações do filme: 9.75
  
